@@ -1,0 +1,9 @@
+#1
+Hi,
+
+Apologies if this is a really dumb question but I am completely new to OSX and Macs having just bought a Mac Book Air. 
+How do I open multiple terminal windows? If I open one terminal window and then try and open another I
+just get the focus back to the first window. 
+
+Thanks
+Andy
